@@ -2,7 +2,7 @@
 
 > **Zama Confidential DeFi Bounty Submission**
 
-[![Live Demo](https://img.shields.io/badge/demo-live-00ff88?style=flat-square)](https://shieldswap-xi.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-00ff88?style=flat-square)]((https://shieldswap-eight.vercel.app/))
 [![Sepolia](https://img.shields.io/badge/network-Sepolia-blue?style=flat-square)](https://sepolia.etherscan.io)
 [![Tests](https://img.shields.io/badge/tests-21%20passing-00ff88?style=flat-square)](#testing)
 [![FHE](https://img.shields.io/badge/FHE-Zama%20fhEVM-purple?style=flat-square)](https://github.com/zama-ai/fhevm)
@@ -162,7 +162,7 @@ frontend/
 
 ## Live Demo
 
-**[shieldswap-xi.vercel.app](https://shieldswap-xi.vercel.app)**
+**[shieldswap-xi.vercel.app]([(https://shieldswap-eight.vercel.app))**
 
 ### What You Can Do Right Now
 
@@ -179,7 +179,7 @@ frontend/
 
 1. Get Sepolia ETH from [sepoliafaucet.com](https://sepoliafaucet.com)
 2. Get Sepolia USDC from [faucet.circle.com](https://faucet.circle.com)
-3. Visit [shieldswap-xi.vercel.app](https://shieldswap-xi.vercel.app)
+3. Visit [shieldswap-xi.vercel.app](https://shieldswap-eight.vercel.app)
 4. Connect MetaMask on Sepolia
 5. Select **Pool Swap** mode
 6. Enter an amount — You Receive calculates automatically
